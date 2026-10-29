@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-puerta-de-las-granadas-granada",
+ "maps": {
+  "fecha": "2026-10-29T11:04:31+01:00",
+  "estado": "LEIDA",
+  "ficha": "Resultados",
+  "nota": 4.5,
+  "coincide": {
+   "tel": false,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Puerta+de+las+Granadas/@37.176204,-3.5997465,17z/data=!4m13!1m2!2m1!1sHotel+Puerta+de+las+Granadas+Granada!3m9!1s0xd71fcb8e0a105f1:0xc8de8d1adc189afb!5m2!4m1!1i2!8m2!3d37.176204!4d-3.5952404!15sCiRIb3RlbCBQdWVydGEgZGUgbGFzIEdyYW5hZGFzIEdyYW5hZGFaJiIkaG90ZWwgcHVlcnRhIGRlIGxhcyBncmFuYWRhcyBncmFuYWRhkgEFaG90ZWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUXRMWFZEVmpWUlJSQULgAQD6AQQIABBJ!16s%2Fg%2F12q4th_6n",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T11:04:31+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "Hotel Puerta de las Granadas, S.L.",
+  "cif": "B18891663",
+  "fuente": "Web hotelpuertadelasgranadas.com, aviso legal: «Denominación social : HOTEL PUERTA DE LAS GRANADAS,S.L. CIF : B18891663 … INSCRITA EN EL REGISTRO MERCANTIL DE GRANADA … HOJA: GR-36238», leída el 29/10/2026",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Un solo hotel (Hotel Puerta de las Granadas 3*, Cuesta de Gomérez 16, Granada); la web no presenta otros establecimientos"
+ }
+}

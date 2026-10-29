@@ -1,0 +1,59 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelpuertadelasgranadas.com/",
+ "read_at": "2026-10-29T15:26:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelpuertadelasgranadas.com/",
+   "sha256": "769ac397f1881c75d47f3f295ad035eaa4e930fbcf47b95e31081b62c3086cf5",
+   "chars": 10341
+  },
+  {
+   "url": "https://www.hotelpuertadelasgranadas.com/aviso-legal/",
+   "sha256": "e3880a4bfd092f9984f6a82764588ca5a8e347bf717e28313bf45cca5f1c8d8c",
+   "chars": 5577
+  },
+  {
+   "url": "https://www.hotelpuertadelasgranadas.com/como-llegar/",
+   "sha256": "d6b802569c8b52e7271d5c4bde37740d86d981720b1bd8da28692fab38e4305d",
+   "chars": 6025
+  },
+  {
+   "url": "https://www.hotelpuertadelasgranadas.com/contacto/",
+   "sha256": "4875308a8ec6ed885fa990128ae3b5c787e1798ac076746d06751ad4a082db16",
+   "chars": 1740
+  },
+  {
+   "url": "https://www.hotelpuertadelasgranadas.com/habitaciones/",
+   "sha256": "c477672234e3b94257e7213af287bf9469e2b04741a8fc8140eef8eae08439bb",
+   "chars": 5743
+  },
+  {
+   "url": "https://www.hotelpuertadelasgranadas.com/servicios/",
+   "sha256": "c63f767e8017fdc6431238b781c39c4e213a9df62d40e6cb239e8a2f3a60e5cd",
+   "chars": 3295
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelpuertadelasgranadas.com",
+  "https://www.hotelpuertadelasgranadas.com/de/",
+  "https://www.hotelpuertadelasgranadas.com/de/angebote/",
+  "https://www.hotelpuertadelasgranadas.com/de/angebote/book-in-advance-ang-get-a-better-price-44fb22/",
+  "https://www.hotelpuertadelasgranadas.com/de/angebote/stay-3-nights-and-get-our-better-price-24fb00/",
+  "https://www.hotelpuertadelasgranadas.com/de/galerie/",
+  "https://www.hotelpuertadelasgranadas.com/de/zimmer/",
+  "https://www.hotelpuertadelasgranadas.com/en/",
+  "https://www.hotelpuertadelasgranadas.com/eventos/",
+  "https://www.hotelpuertadelasgranadas.com/fr/",
+  "https://www.hotelpuertadelasgranadas.com/galeria/",
+  "https://www.hotelpuertadelasgranadas.com/hotel-3d/",
+  "https://www.hotelpuertadelasgranadas.com/ofertas/",
+  "https://www.hotelpuertadelasgranadas.com/ofertas/quedate-3-noches-y-consigue-nuestro-mejor-precio-24fb00/",
+  "https://www.hotelpuertadelasgranadas.com/ofertas/venta-anticipada-permite-modificacion-44fb22/",
+  "https://www.hotelpuertadelasgranadas.com/politica-de-cookies/",
+  "https://www.hotelpuertadelasgranadas.com/politica-de-privacidad/",
+  "https://www.hotelpuertadelasgranadas.com/puntos-de-interes/",
+  "https://www.hotelpuertadelasgranadas.com/signup/"
+ ]
+}
